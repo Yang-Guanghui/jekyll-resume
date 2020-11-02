@@ -1,5 +1,5 @@
 ---
-titie: 把readme.md变为
+titie: 把readme.md变为html
 ---
 # Jekyll Resume Theme
 
